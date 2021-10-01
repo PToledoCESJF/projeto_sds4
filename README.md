@@ -10,7 +10,7 @@ Esta aplicação full stack (back-end e front-end) foi desenvolvida durante a 4�
 ### Welcome
 Ao acessar o sistema, a primeira tela a ser exibida faz uma breve apresentação o da aplicação.
 O botão Dashboard direciona para a página principal da aplicação.
-![Welcome](https://github.com/PToledoCESJF/projeto_sds4/blob/master/assets/Welcome.png)
+![Welcome](https://github.com/PToledoCESJF/projeto_sds4/blob/master/assets/welcome.png)
 ##
 ### Dashboard
 A tela Dashboard exibe 2 gráficos e uma tabela paginada que mostar o resultado das vendas realizadas por cada vendedor.
