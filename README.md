@@ -1,5 +1,6 @@
 # DS Vendas 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/toledo-paulo/exemplo-readme/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/PToledoCESJF/projeto_sds4/blob/master/LICENSE) 
+
 
 # O projeto
 DS Vendas trata-se de uma aplicação que exibe um dashboard com 2 gráfico e uma tabela paginada apresentando a taxa de sucesso e as vendas realizadas por cada vendedor.
